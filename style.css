@@ -44,7 +44,7 @@ body{
     );
 }
 .cabeçario{
-    background: var(--cor05);
+    background: var(--cor01);
     position: relative;
     padding: 0px 0px 0px 0px;
 }
@@ -96,13 +96,19 @@ div{
     text-align: center;
     line-height: 25px;
     font: 500 1em monsterrat;
+    background: var(--cor05);
+    margin: 0px;
 }
 .introdução>h1{
     font: normal 3em bebas;
-    margin: 20px 0px 10px 0px;
+    padding: 20px 0px 0px 0px;
+    margin: 0px 0px 10px 0px;
+    color: var(--cor02);
 }
 .introdução>p{
-    margin: 0px 5px 30px 5px;
+    margin: 0px 5px 0px 5px;
+    color: var(--cor02);
+    padding: 0px 0px 20px 0px;
 }
 /* ---------------------------------conteúdo principal-------------------------------------- */
 
