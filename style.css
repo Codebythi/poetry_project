@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /* para deixar a letra maiuscula e com a primeira letra maior nois usamos text-variant: small-caps; */
 /* para adaptar melhor o padding de um background nois usamos a medida vh */
-/* medida vw --> largura da tela, sempre usado pra adaptar fontes */
+/* medida vw --> largura da tela, sempre usado pra adaptar fontes de texto e titulo*/
 :root{
     --cor01: black;
     --cor02: white;
