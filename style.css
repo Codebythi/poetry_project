@@ -156,9 +156,9 @@ div{
 }
 .p2>p{
     background-color: rgba(0, 0, 0, 0.397);
-    padding: 50px 15px 0px 15px;
+    padding: 45px 15px 0px 15px;
     display: inline-block;
-    height: 160px;
+    height: 165px;
     margin: 0px;
     color: var(--cor02);
 }
