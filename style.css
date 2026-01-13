@@ -143,16 +143,24 @@ div{
 }
 
 .p2{
-    height: 130px;
+    height: 210px;
     background: var(--cor02);
     text-align: center;
     font: normal 20px monsterrat;
     margin: 0px;
-    padding: 50px 30px 30px 30px;
     background: var(--cor03) url(Kaiser_no_Livro_de_Regras_de_Ordem_Paranormal.webp) center center no-repeat scroll;
     background-size: 100%;
     max-width: 500px;
     margin: 0px auto 5px auto;
+    background-color: black;
+}
+.p2>p{
+    background-color: rgba(0, 0, 0, 0.397);
+    padding: 60px 0px 0px 0px;
+    display: inline-block;
+    height: 150px;
+    margin: 0px;
+    color: var(--cor02);
 }
 .p3{
     height: px;
